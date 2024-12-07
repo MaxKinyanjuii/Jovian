@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.box-one{
+    background-color: aqua;
+    height: 80px;
+    width: 100px;
+    /* Padding - Space around the content */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+    border: 10px solid blue;
+    margin: 30px;
+}
+.box-two{
+    background-color: beige;
+    height: 60px;
+    width: 80px;
+    border: 10px solid red;
+    padding: 20px;
+    margin: 20px auto 30px auto;
+}
