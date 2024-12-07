@@ -18,6 +18,21 @@ h1{
     width: 100%;
     object-fit: cover;
 }
+.about{
+    display: flex;
+    max-width: 800px;
+}
+#description{
+    width: 50%;
+    padding: 0 10px;
+}
+#teamwork{
+    width: 50%;
+}
+#team-image{
+    border-radius: 10px;
+    width: 100%;
+}
 .location{
     color: gray;
 }
