@@ -65,3 +65,6 @@ h3{
 .footer-links{
     list-style: none;
 }
+.footer-links li{
+    display: inline;
+}
