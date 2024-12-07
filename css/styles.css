@@ -21,10 +21,12 @@ h1{
 .about{
     display: flex;
     max-width: 800px;
+    margin: 0 auto;
+    padding: 8px;
 }
 #description{
     width: 50%;
-    padding: 0 10px;
+    padding-right: 8px;
 }
 #teamwork{
     width: 50%;
